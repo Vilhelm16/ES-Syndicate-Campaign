@@ -316,6 +316,7 @@ mission "Syndi Workers 2"
 	on offer
 		conversation
 			`Upon landing on <origin>, you are greeted by a Syndicate employee wearing what appears to be riot gear. "Hello, <first> <last>. I, along with a number of others, require transport to <destination> in order to end a workers' strike that has broken out which is hurting Syndicate profits. There are <bunks> of us in total. You will be paid <payment>."`
+
 			choice
 				`	"I'd be glad to."`
 					accept
